@@ -6,3 +6,6 @@ This was inspired by [Eugene Yan's Applied ML Repository](https://github.com/eug
 ## Parsons Problems
 1. [Adaptive Parsons Problems as Active Learning Activities During Lecture](https://dl.acm.org/doi/10.1145/3502718.3524808) `Ericson` `Haynes-Magyar` `2022`
 2. [Problem-Solving Efficiency and Cognitive Load for Adaptive Parsons Problems vs. Writing the Equivalent Code](https://dl.acm.org/doi/10.1145/3411764.3445292) `Haynes` `Ericson` `2021`
+
+## Domain-Specific/Task-Specific Programming Languages
+1. [Task-Specific Programming Languages for Promoting Computing Integration: A Precalculus Example](https://dl.acm.org/doi/10.1145/3364510.3364532) `Guzdial` `2022`
