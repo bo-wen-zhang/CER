@@ -12,3 +12,4 @@ This was inspired by [Eugene Yan's Applied ML Repository](https://github.com/eug
 
 ## Domain-Specific/Task-Specific Programming Languages
 1. [Task-Specific Programming Languages for Promoting Computing Integration: A Precalculus Example](https://dl.acm.org/doi/10.1145/3364510.3364532) `Guzdial` `2022`
+2. [Task-Specific Programming Languages for Promoting Computing Integration: A Precalculus Example](https://doi.org/10.1145/3364510.3364532) `Guzdial` `2019`
