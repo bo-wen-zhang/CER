@@ -11,6 +11,6 @@ This was inspired by [Eugene Yan's Applied ML Repository](https://github.com/eug
 2. [Problem-Solving Efficiency and Cognitive Load for Adaptive Parsons Problems vs. Writing the Equivalent Code](https://dl.acm.org/doi/10.1145/3411764.3445292) `Haynes` `Ericson` `2021`
 
 ## Domain-Specific/Task-Specific Programming Languages
-1. [Task-Specific Programming Languages for Promoting Computing Integration: A Precalculus Example](https://dl.acm.org/doi/10.1145/3364510.3364532) `Guzdial` `2022`
+1. [Creating New Programming Experiences Inspired by Boxer to Develop Computationally Literate Society](https://doi.org/10.1145/3532512.3539663) `Guzdial` `2022`
 2. [Task-Specific Programming Languages for Promoting Computing Integration: A Precalculus Example](https://doi.org/10.1145/3364510.3364532) `Guzdial` `2019`
 3. [Teaching functional programming with soccer-fun](https://doi.org/10.1145/1411260.1411270) `Achten` `2008`
