@@ -6,6 +6,7 @@ This was inspired by [Eugene Yan's Applied ML Repository](https://github.com/eug
 ## Novice Programmers
 
 1. [Toward a Developmental Epistemology of Computer Programming](https://doi.org/10.1145/2978249.2978251) `Lister` `2016`
+2. [A Loop is a Compression](https://www.ppig.org/papers/2008-ppig-20th-milner/) `Milner` `2008`
 
 ## Algorithms
 1. [Teaching algorithms in upper secondary education: a study of teachers’ pedagogical content knowledge](https://doi.org/10.1080/08993408.2021.1935554) `Nijenhuis-Voogt` `Bayram-Jacobs` `Meijer` `Barendsen` `2021`
