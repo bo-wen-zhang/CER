@@ -24,3 +24,4 @@ This was inspired by [Eugene Yan's Applied ML Repository](https://github.com/eug
 
 ## Duel-Modality
 1. [Dual-Modality Instruction and Learning: A Case Study in CS1](https://dl.acm.org/doi/10.1145/3328778.3366865) `Blanchard` `Gardner-McCune` `Anthony` `2020`
+2. [Dual Modality Instruction & Programming Environments: Student Usage & Perceptions](https://dl.acm.org/doi/10.1145/3408877.3432434) `Blanchard` `Gardner-McCune` `Anthony` `2021`
