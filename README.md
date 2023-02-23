@@ -21,3 +21,6 @@ This was inspired by [Eugene Yan's Applied ML Repository](https://github.com/eug
 1. [Creating New Programming Experiences Inspired by Boxer to Develop Computationally Literate Society](https://doi.org/10.1145/3532512.3539663) `Guzdial` `2022`
 2. [Task-Specific Programming Languages for Promoting Computing Integration: A Precalculus Example](https://doi.org/10.1145/3364510.3364532) `Guzdial` `2019`
 3. [Teaching functional programming with soccer-fun](https://doi.org/10.1145/1411260.1411270) `Achten` `2008`
+
+## Duel-Modality
+1. [Dual-Modality Instruction and Learning: A Case Study in CS1](https://dl.acm.org/doi/10.1145/3328778.3366865) `Blanchard` `Gardner-McCune` `Anthony` `2020`
