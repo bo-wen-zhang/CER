@@ -28,3 +28,6 @@ This was inspired by [Eugene Yan's Applied ML Repository](https://github.com/eug
 
 ## Social Justice
 1. [Racial Justice Amidst the Dangers of Computing Creep: A Dialogue](https://doi.org/10.1007/s11528-023-00835-z) `Shah` `Yadav` `2023`
+
+## Assessment & Examination
+1. [Multiple-choice vs free-text code-explaining examination questions](https://doi.org/10.1145/2674683.2674701) `Simon` `Snowdon` `2014`
