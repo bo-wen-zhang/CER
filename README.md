@@ -31,3 +31,4 @@ This was inspired by [Eugene Yan's Applied ML Repository](https://github.com/eug
 
 ## Assessment & Examination
 1. [Multiple-choice vs free-text code-explaining examination questions](https://doi.org/10.1145/2674683.2674701) `Simon` `Snowdon` `2014`
+2. [How should we ‘Explain in plain English’? Voices from the Community](https://doi.org/10.1145/3446871.3469738) `Fowler` `Chen` `Zilles` `2021`
