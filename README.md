@@ -11,6 +11,7 @@ This was inspired by [Eugene Yan's Applied ML Repository](https://github.com/eug
 4. [Restoring "coding with intention" in introductory programming courses](https://dl.acm.org/doi/10.1145/1324302.1324323) `Gaspar` `Langevin` `2007`
 5. [Teaching Explicit Programming Strategies to Adolescents](https://doi.org/10.1145/3287324.3287371) `Ko` `LaToza` `Hull` `Ko` `Kwok` `Quichocho` `Akkaraju` `Pandit` `2019`
 6. [Learning programming through stepwise self-explanations](https://doi.org/10.1109/CISTI.2016.7521457) `Aureliano` `Tedesco` `Caspersen` `2016`
+7. [Principles of asking effective questions during student problem solving](https://doi.org/10.1145/1734263.1734417) `Boyer` `Lahti` `Phillips` `Wallis` `Vouk` `Lester` `2010`
 
 ## Algorithms
 1. [Teaching algorithms in upper secondary education: a study of teachers’ pedagogical content knowledge](https://doi.org/10.1080/08993408.2021.1935554) `Nijenhuis-Voogt` `Bayram-Jacobs` `Meijer` `Barendsen` `2021`
